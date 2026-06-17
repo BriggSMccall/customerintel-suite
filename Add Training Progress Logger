@@ -1,0 +1,10 @@
+Summary:
+Added real-time training logs.
+
+Changes:
+- Epoch tracking
+- Loss reporting
+- Training summaries
+
+Testing:
+Verified logs across training sessions.
